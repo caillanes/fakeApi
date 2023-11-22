@@ -136,46 +136,14 @@
       "password": "20000015"
     },
     {
-      "username": "leagraham",
-      "password": "20000001",
-      "id": 16
+      "id": 16,
+      "name": "Carlos Illanes",
+      "username": "caillanes",
+      "email": "ca.illanes@duocuc.cl",
+      "phone": "(56) 9-555-666-777",
+      "rut": "20.616.021-7",
+      "password": "20616021"
     },
-    {
-      "username": "leagraham",
-      "password": "20000001",
-      "id": 17
-    },
-    {
-      "username": "leagraham",
-      "password": "20000001",
-      "id": 18
-    },
-    {
-      "username": "leagraham",
-      "password": "20000001",
-      "id": 19
-    },
-    {
-      "username": "leagraham",
-      "password": "20000001",
-      "id": 20
-    },
-    {
-      "password": "20000001",
-      "id": 21
-    },
-    {
-      "password": "20000001",
-      "id": 22
-    },
-    {
-      "password": "20000001",
-      "id": 23
-    },
-    {
-      "password": "20000001",
-      "id": 24
-    }
   ],
   "teachers": [
     {

@@ -1,150 +1,181 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "leagraham",
-      "email": "lea.graham@duocuc.cl",
-      "phone": "(56) 9-123-456-789",
-      "rut": "20.000.001-9",
-      "password": "20000001"
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "ervhowell",
-      "email": "erv.howell@duocuc.cl",
-      "phone": "(56) 9-987-654-321",
-      "rut": "20.000.002-0",
-      "password": "20000002"
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "clebauch",
-      "email": "cle.bauch@duocuc.cl",
-      "phone": "(56) 9-555-555-555",
-      "rut": "20.000.003-1",
-      "password": "20000003"
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "patlebsack",
-      "email": "pat.lebsack@duocuc.cl",
-      "phone": "(56) 9-111-222-333",
-      "rut": "20.000.004-2",
-      "password": "20000004"
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "chedietrich",
-      "email": "che.dietrich@duocuc.cl",
-      "phone": "(56) 9-444-777-888",
-      "rut": "20.000.005-3",
-      "password": "20000005"
-    },
-    {
-      "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "username": "dennschulist",
-      "email": "den.schulist@duocuc.cl",
-      "phone": "(56) 9-999-888-777",
-      "rut": "20.000.006-4",
-      "password": "20000006"
-    },
-    {
-      "id": 7,
-      "name": "Kurtis Weissnat",
-      "username": "kurweissnat",
-      "email": "kur.weissnat@duocuc.cl",
-      "phone": "(56) 9-666-333-222",
-      "rut": "20.000.007-5",
-      "password": "20000007"
-    },
-    {
-      "id": 8,
-      "name": "Nicholas Runolfsdottir V",
-      "username": "nicrunolfsdottir",
-      "email": "nic.runolfsdottir@duocuc.cl",
-      "phone": "(56) 9-444-555-666",
-      "rut": "20.000.008-6",
-      "password": "20000008"
-    },
-    {
-      "id": 9,
-      "name": "Glenna Reichert",
-      "username": "glereichert",
-      "email": "gle.reichert@duocuc.cl",
-      "phone": "(56) 9-777-444-555",
-      "rut": "20.000.009-7",
-      "password": "20000009"
-    },
-    {
-      "id": 10,
-      "name": "Clementina DuBuque",
-      "username": "cledubuque",
-      "email": "cle.dubuque@duocuc.cl",
-      "phone": "(56) 9-333-999-111",
-      "rut": "18.000.010-8",
-      "password": "18000010"
-    },
-    {
-      "id": 11,
-      "name": "John Doe",
-      "username": "johndoe",
-      "email": "johndoe@duocuc.cl",
-      "phone": "(56) 9-111-222-333",
-      "rut": "20.000.011-9",
-      "password": "20000011"
-    },
-    {
-      "id": 12,
-      "name": "Alice Johnson",
-      "username": "alicejohnson",
-      "email": "alicejohnson@duocuc.cl",
-      "phone": "(56) 9-222-333-444",
-      "rut": "20.000.012-0",
-      "password": "20000012"
-    },
-    {
-      "id": 13,
-      "name": "Bob Smith",
-      "username": "bobsmith",
-      "email": "bobsmith@duocuc.cl",
-      "phone": "(56) 9-333-444-555",
-      "rut": "20.000.013-1",
-      "password": "20000013"
-    },
-    {
-      "id": 14,
-      "name": "Emily Wilson",
-      "username": "emilywilson",
-      "email": "emilywilson@duocuc.cl",
-      "phone": "(56) 9-444-555-666",
-      "rut": "20.000.014-2",
-      "password": "20000014"
-    },
-    {
-      "id": 15,
-      "name": "Michael Brown",
-      "username": "michaelbrown",
-      "email": "michaelbrown@duocuc.cl",
-      "phone": "(56) 9-555-666-777",
-      "rut": "20.000.015-3",
-      "password": "20000015"
-    },
-    {
-      "id": 16,
-      "name": "Carlos Illanes",
-      "username": "caillanes",
-      "email": "ca.illanes@duocuc.cl",
-      "phone": "(56) 9-555-666-777",
-      "rut": "20.616.021-7",
-      "password": "20616021"
-    },
-  ],
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "leagraham",
+    "email": "lea.graham@duocuc.cl",
+    "phone": "(56) 9-123-456-789",
+    "rut": "20.000.001-9",
+    "password": "20000001"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "ervhowell",
+    "email": "erv.howell@duocuc.cl",
+    "phone": "(56) 9-987-654-321",
+    "rut": "20.000.002-0",
+    "password": "20000002"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "clebauch",
+    "email": "cle.bauch@duocuc.cl",
+    "phone": "(56) 9-555-555-555",
+    "rut": "20.000.003-1",
+    "password": "20000003"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "patlebsack",
+    "email": "pat.lebsack@duocuc.cl",
+    "phone": "(56) 9-111-222-333",
+    "rut": "20.000.004-2",
+    "password": "20000004"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "chedietrich",
+    "email": "che.dietrich@duocuc.cl",
+    "phone": "(56) 9-444-777-888",
+    "rut": "20.000.005-3",
+    "password": "20000005"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "dennschulist",
+    "email": "den.schulist@duocuc.cl",
+    "phone": "(56) 9-999-888-777",
+    "rut": "20.000.006-4",
+    "password": "20000006"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "kurweissnat",
+    "email": "kur.weissnat@duocuc.cl",
+    "phone": "(56) 9-666-333-222",
+    "rut": "20.000.007-5",
+    "password": "20000007"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "nicrunolfsdottir",
+    "email": "nic.runolfsdottir@duocuc.cl",
+    "phone": "(56) 9-444-555-666",
+    "rut": "20.000.008-6",
+    "password": "20000008"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "glereichert",
+    "email": "gle.reichert@duocuc.cl",
+    "phone": "(56) 9-777-444-555",
+    "rut": "20.000.009-7",
+    "password": "20000009"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "cledubuque",
+    "email": "cle.dubuque@duocuc.cl",
+    "phone": "(56) 9-333-999-111",
+    "rut": "18.000.010-8",
+    "password": "18000010"
+  },
+  {
+    "id": 11,
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@duocuc.cl",
+    "phone": "(56) 9-111-222-333",
+    "rut": "20.000.011-9",
+    "password": "20000011"
+  },
+  {
+    "id": 12,
+    "name": "Alice Johnson",
+    "username": "alicejohnson",
+    "email": "alicejohnson@duocuc.cl",
+    "phone": "(56) 9-222-333-444",
+    "rut": "20.000.012-0",
+    "password": "20000012"
+  },
+  {
+    "id": 13,
+    "name": "Bob Smith",
+    "username": "bobsmith",
+    "email": "bobsmith@duocuc.cl",
+    "phone": "(56) 9-333-444-555",
+    "rut": "20.000.013-1",
+    "password": "20000013"
+  },
+  {
+    "id": 14,
+    "name": "Emily Wilson",
+    "username": "emilywilson",
+    "email": "emilywilson@duocuc.cl",
+    "phone": "(56) 9-444-555-666",
+    "rut": "20.000.014-2",
+    "password": "20000014"
+  },
+  {
+    "id": 15,
+    "name": "Michael Brown",
+    "username": "michaelbrown",
+    "email": "michaelbrown@duocuc.cl",
+    "phone": "(56) 9-555-666-777",
+    "rut": "20.000.015-3",
+    "password": "20000015"
+  },
+  {
+    "username": "leagraham",
+    "password": "20000001",
+    "id": 16
+  },
+  {
+    "username": "leagraham",
+    "password": "20000001",
+    "id": 17
+  },
+  {
+    "username": "leagraham",
+    "password": "20000001",
+    "id": 18
+  },
+  {
+    "username": "leagraham",
+    "password": "20000001",
+    "id": 19
+  },
+  {
+    "username": "leagraham",
+    "password": "20000001",
+    "id": 20
+  },
+  {
+    "password": "20000001",
+    "id": 21
+  },
+  {
+    "password": "20000001",
+    "id": 22
+  },
+  {
+    "password": "20000001",
+    "id": 23
+  },
+  {
+    "password": "20000001",
+    "id": 24
+  }
+],
   "teachers": [
     {
       "id": 1,

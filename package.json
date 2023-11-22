@@ -1,28 +1,28 @@
 {
-  "name": "alurageek-api",
+  "name": "fake-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "base de datos con alumnos y profesores",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "https://github.com/caillanes/fakeApi.git"
   },
   "keywords": [
-    "alura",
-    "alurageek",
+    "qrapp",
+    "arapp",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "carlos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": "https://github.com/caillanes/fakeApi/issue"
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "homepage": "https://github.com/caillanes/fakeApi",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",

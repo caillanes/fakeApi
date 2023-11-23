@@ -173,9 +173,14 @@
       "id": 23
     },
     {
-      "password": "20000001",
-      "id": 24
-    }
+      "id": 24,
+      "name": "Carlos Illanes",
+      "username": "caillanes",
+      "email": "ca.illanes@duocuc.cl",
+      "phone": "(56) 9-222-333-444",
+      "rut": "20.616.021-7",
+      "password": "20616021"
+    },
   ],
   "teachers": [
     {

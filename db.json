@@ -169,8 +169,13 @@
       "id": 22
     },
     {
-      "password": "20000001",
-      "id": 23
+      "id": 23,
+      "name": "Mario Sandoval",
+      "username": "masandoval",
+      "email": "ma.sandoval@duocuc.cl",
+      "phone": "(56) 9-222-333-444",
+      "rut": "20.815.610-1",
+      "password": "20815610"
     },
     {
       "id": 24,

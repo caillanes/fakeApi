@@ -232,6 +232,15 @@
       "phone": "(56) 9-111-222-333",
       "rut": "20.000.020-8",
       "password": "20000020"
+    },
+    {
+      "id": 6,
+      "name": "Nicolas Muñoz",
+      "username": "nimunoz",
+      "email": "ni.munoz@profesor.duoc.cl",
+      "phone": "(56) 9-111-222-333",
+      "rut": "18.850.432-9",
+      "password": "18850432"
     }
   ]
 }
